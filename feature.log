@@ -1,0 +1,89 @@
+commit 406f21ea84ff703538b7423d516843f73b266015
+Merge: dbfda07 f1f587c
+Author: sanjay.kesari28 <sanjay.kesari28@gmail.com>
+Date:   Fri Jul 12 18:04:17 2019 +0530
+
+    Merge branch 'master' of https://github.com/sanjayvinsol/gitexercise
+
+commit f1f587c78b32f632cec9413e3fc13284f82a6089
+Author: Sanjay Kesari <52665393+sanjayvinsol@users.noreply.github.com>
+Date:   Fri Jul 12 18:02:32 2019 +0530
+
+    Update testfile2.txt
+
+commit dbfda07e18dbbacbb17e80c6388632baeb5f753f
+Author: sanjay.kesari28 <sanjay.kesari28@gmail.com>
+Date:   Fri Jul 12 18:01:24 2019 +0530
+
+    Adding feature2.txt file into feature1 branch
+
+commit d8da699a8fec67299cd751552d60036e7d02cca0
+Merge: 43b8da5 a82bd29
+Author: sanjay.kesari28 <sanjay.kesari28@gmail.com>
+Date:   Fri Jul 12 17:56:33 2019 +0530
+
+    Merge branch 'master' of https://github.com/sanjayvinsol/gitexercise into feature1
+
+commit a82bd29052557f35c12004e87139ffcec9732a14
+Author: Sanjay Kesari <52665393+sanjayvinsol@users.noreply.github.com>
+Date:   Fri Jul 12 17:56:19 2019 +0530
+
+    Update testfile.txt
+
+commit 43b8da5df80f7164d28c61104f4109f4cb29edf9
+Author: sanjay.kesari28 <sanjay.kesari28@gmail.com>
+Date:   Fri Jul 12 17:53:12 2019 +0530
+
+    Adding feature.txt file into feature1 branch
+
+commit b90ab125a0b9393b6e6fc7ea29c0d98179a907f6
+Author: sanjay.kesari28 <sanjay.kesari28@gmail.com>
+Date:   Fri Jul 12 16:51:41 2019 +0530
+
+    Added testfile3 and changes into both testfile1 and testfile2
+
+commit a1d211e6ec7453c37d318a2f8bafa1977ea11b15
+Author: sanjay.kesari28 <sanjay.kesari28@gmail.com>
+Date:   Fri Jul 12 16:47:16 2019 +0530
+
+    Revert "Update testfile and testfile2 both"
+    
+    This reverts commit a3ae8e3b0aa2cb02d95d5dabf9cc4a9ab58b9fd9.
+
+commit a3ae8e3b0aa2cb02d95d5dabf9cc4a9ab58b9fd9
+Author: sanjay.kesari28 <sanjay.kesari28@gmail.com>
+Date:   Fri Jul 12 16:39:30 2019 +0530
+
+    Update testfile and testfile2 both
+
+commit f299b994f91d23e0ac7453b6b07e4978969bb2ea
+Author: sanjay.kesari28 <sanjay.kesari28@gmail.com>
+Date:   Fri Jul 12 16:36:21 2019 +0530
+
+    Revert "Update testfile2"
+    
+    This reverts commit a447d6e453fe6ae8ffd4650d5dfedb0e61c31eae.
+
+commit a447d6e453fe6ae8ffd4650d5dfedb0e61c31eae
+Author: sanjay.kesari28 <sanjay.kesari28@gmail.com>
+Date:   Fri Jul 12 16:35:19 2019 +0530
+
+    Update testfile2
+
+commit f237072d3eec7d9c318c4801e2f4df4bbd0f887b
+Author: sanjay.kesari28 <sanjay.kesari28@gmail.com>
+Date:   Fri Jul 12 15:39:06 2019 +0530
+
+    Add testfile2
+
+commit 5f73cbde0e5113e7d5c71e5a01fae2577143bbe6
+Author: sanjay.kesari28 <sanjay.kesari28@gmail.com>
+Date:   Fri Jul 12 15:30:37 2019 +0530
+
+    Add testfile
+
+commit 61675613e8316423e9362d0d4b95c9f3f269135c
+Author: Sanjay Kesari <52665393+sanjayvinsol@users.noreply.github.com>
+Date:   Fri Jul 12 15:00:45 2019 +0530
+
+    Initial commit
